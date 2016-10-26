@@ -12,6 +12,7 @@ namespace Project1
         {
             Console.WriteLine("Welcome to day 2");
             Console.WriteLine("Change #1");
+            Console.WriteLine("inspect this first");
         }
     }
 }
